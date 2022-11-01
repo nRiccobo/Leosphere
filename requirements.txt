@@ -1,0 +1,6 @@
+matplotlib
+numpy
+scipy
+seaborn
+netCDF4
+windrose
