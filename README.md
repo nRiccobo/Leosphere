@@ -18,4 +18,8 @@ Processing scripts to analyze Leosphere LIDAR-Buoy Data. ATOC Grad Projects
 4. Install depdencies
 
   > cd Leosphere 
-  > pip install -r requirements.txt 
+  > pip install -r requirements.txt
+
+5. Optional: Install Spyder5.3.3 IDE 
+
+  > conda install spyder=5.3.3 -y 
